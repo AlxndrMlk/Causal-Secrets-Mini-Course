@@ -2,9 +2,11 @@
 
 This repository contains code for [Causal Secrets Mini-Course](https://learning.causalpython.io/courses/causal-secrets-mini) (**free**)
 
+<br>
 <a href="https://learning.causalpython.io/courses/causal-secrets-mini">
     <img src="img/causal-secrets-2024-12-COVER%20(1920%20x%201920%20px).jpg" 
-         width="200" 
+         width="500"
+         style="display: block; margin: 0 auto;"
          alt="Causal Secrets Course Cover">
 </a>
 
