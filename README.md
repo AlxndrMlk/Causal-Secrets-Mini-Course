@@ -2,6 +2,7 @@
 
 This repository contains code for [Causal Secrets Mini-Course](https://learning.causalpython.io/courses/causal-secrets-mini) (**free**)
 
+![](img/causal-secrets-2024-12-COVER%20(1920%20x%201920%20px).jpg)
 
 ## This Course in a Nutshell
 
